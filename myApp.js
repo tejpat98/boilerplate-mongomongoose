@@ -95,7 +95,7 @@ const removeManyPeople = (done) => {
 
 const queryChain = (done) => {
   const foodToSearch = "burrito";
-
+  
   done(null /*, data*/);
 };
 
